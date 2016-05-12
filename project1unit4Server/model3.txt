@@ -1,0 +1,9 @@
+JJL
+JAVA
+Love
+BasePrice:26346
+Color::Fort Knox Gold Clearcoat Metallic:10,Liquid Grey Clearcoat Metallic:20,Infra-Red Clearcoat:10,Grabber Green Clearcoat Metallic:40
+Transmission::automatic:0,manual:-600
+ABS/Traction Control::Standard:0,ABS:600,ABS with Advance Trac:1860
+Side Impact Air Bags::none:0,selected:500
+Power Moonroof::none:0,selected:300
